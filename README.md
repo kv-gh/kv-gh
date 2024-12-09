@@ -1,6 +1,6 @@
 ![trees](./.github/assets/images/top_banner.jpg)
 
-This is the location where I will publish, maintain, and contribute to open-source software.
+This is the account I will use to contribute to open-source software, as well as mirror personal projects that I host locally and would like to share publicly.
 
 You can find me in the following locations:
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn--839496?style=for-the-badge&logo=linkedin&logoColor=839496&labelColor=fdf6e3&color=fdf6e3)](https://www.linkedin.com/in/ken-van-dalsum-89778421)
